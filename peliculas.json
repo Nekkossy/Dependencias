@@ -1,1 +1,1 @@
-[{"titulo":"Matrix","anio":1999,"precio":2.5}]
+[{"id":1,"titulo":"Inception","anio":2010,"precio":4.0,"disponible":true},{"id":2,"titulo":"El Señor de los Anillos: La Comunidad del Anillo","anio":2001,"precio":3.8,"disponible":true},{"id":3,"titulo":"Matrix","anio":1999,"precio":2.5,"disponible":true}]
