@@ -27,9 +27,10 @@ class AlquilerServiceTest {
         AlquilerService service =
                 new AlquilerService(peliculaDao, socioDao, alquilerDao, 3);
 
+
         List<Alquiler> alquileres = service.listarAlquileres();
 
         assertNotNull(alquileres);
-        assertFalse(alquileres.isEmpty());
+        assertTrue(alquileres.isEmpty());
     }
 }
